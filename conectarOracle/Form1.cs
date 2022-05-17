@@ -24,6 +24,7 @@ namespace conectarOracle
             OracleConnection ora = new OracleConnection("DATA SOURCE = PhotoPlay ; PASSWORD= Almi123; USER ID= photoplay ;");
             ora.Open();
             MessageBox.Show("conectado");
+            grfdhtgdhgh
         }
     }
 }
