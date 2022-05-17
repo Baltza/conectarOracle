@@ -25,6 +25,8 @@ namespace conectarOracle
             ora.Open();
             MessageBox.Show("conectado");
             grfdhtgdhgh
+
+                vhvhvgh
         }
     }
 }
